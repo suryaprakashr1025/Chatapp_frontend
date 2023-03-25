@@ -1,4 +1,5 @@
-export const host = "http://localhost:3333";
+// export const host = "http://localhost:3333";
+export const host = "https://chat-2bqa.onrender.com";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
